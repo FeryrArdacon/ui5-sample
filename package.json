@@ -1,0 +1,21 @@
+{
+  "name": "mysampleapp",
+  "version": "1.0.0",
+  "description": "UI5 sample for testing ui5 vscode plugin",
+  "scripts": {
+    "serve": "ui5 serve --config=ui5.yaml"
+  },
+  "author": "Patrick Siegmund",
+  "license": "MIT",
+  "dependencies": {
+    "@ui5/cli": "^3.0.7"
+  },
+  "ui5": {
+    "ui5parser": {
+      "ui5version": "1.112.0"
+    }
+  },
+  "devDependencies": {
+    "ui5plugin-linter": "^1.0.0"
+  }
+}
