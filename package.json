@@ -8,14 +8,14 @@
   "author": "Patrick Siegmund",
   "license": "MIT",
   "dependencies": {
-    "@ui5/cli": "^3.0.7"
+    "@ui5/cli": "^3.10.3"
   },
   "ui5": {
     "ui5parser": {
-      "ui5version": "1.112.0"
+      "ui5version": "1.124.0"
     }
   },
   "devDependencies": {
-    "ui5plugin-linter": "^1.0.0"
+    "ui5plugin-linter": "^1.15.1"
   }
 }
